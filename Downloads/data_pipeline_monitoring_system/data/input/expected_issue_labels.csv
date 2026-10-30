@@ -1,0 +1,4 @@
+file,example_issue
+orders.csv,"negative amount, missing customer_id, duplicate order_id"
+inventory.csv,"negative stock quantity, malformed timestamp"
+payments.csv,order_id not present in published orders target
